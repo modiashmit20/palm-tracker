@@ -1,0 +1,2 @@
+# palm-tracker
+Hand tracker recognition is in a veryll|one amongst|one in every of} the system which will detect the gesture of hand in a real time video. The gesture of hand is classify within a specific area of interest. This project concentrates on how a system could detect, recognize and interpret the hand gesture recognition through computer vision with the challenging factors which variability in pose, orientation, location and scale
